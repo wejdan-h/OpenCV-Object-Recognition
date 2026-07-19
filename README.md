@@ -1,4 +1,4 @@
-# OpenCV Object Recognition
+<img width="794" height="702" alt="demo gif" src="https://github.com/user-attachments/assets/d4a1ea29-c739-4fad-9058-f8f8e0cbc3cd" /># OpenCV Object Recognition
 
 A real-time object recognition application built with **Python**, **OpenCV**, and **YOLOv8**. The application uses a webcam to detect and recognize multiple objects, displaying bounding boxes and class labels in real time.
 
@@ -61,7 +61,8 @@ and many more.
 
 ### GIF Preview
 
-![Demo](screenshots/object_detection.gif)
+![Uploading demo.gif…]()
+
 
 
 ---
