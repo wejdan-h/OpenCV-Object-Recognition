@@ -57,7 +57,7 @@ and many more.
 
 ### Screenshot
 
-![Object Recognition](screenshots/object_detection.png)
+![Object Recognition](object_detection.png)
 
 ### GIF Preview
 
