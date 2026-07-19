@@ -1,4 +1,4 @@
-<img width="794" height="702" alt="demo gif" src="https://github.com/user-attachments/assets/d4a1ea29-c739-4fad-9058-f8f8e0cbc3cd" /># OpenCV Object Recognition
+OpenCV Object Recognition
 
 A real-time object recognition application built with **Python**, **OpenCV**, and **YOLOv8**. The application uses a webcam to detect and recognize multiple objects, displaying bounding boxes and class labels in real time.
 
@@ -22,6 +22,30 @@ A real-time object recognition application built with **Python**, **OpenCV**, an
 - NumPy
 
 ---
+## Requirements
+
+- Python 3.10 or later
+- OpenCV
+- Ultralytics YOLOv8
+- NumPy
+
+---
+
+## Installation
+
+Install the required libraries:
+
+```bash
+pip install opencv-python ultralytics numpy
+```
+
+Run the project:
+
+```bash
+python object_recognition.py
+```
+
+The YOLOv8 model will be downloaded automatically the first time the application is executed.
 ## How It Works
 
 1. Load the YOLOv8 object detection model.
