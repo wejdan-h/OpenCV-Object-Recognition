@@ -22,15 +22,15 @@ A real-time object recognition application built with **Python**, **OpenCV**, an
 - NumPy
 
 ---
-
 ## How It Works
 
-1. Load the YOLOv8 model.
-2. Access the webcam using OpenCV.
+1. Load the YOLOv8 object detection model.
+2. Open the webcam using OpenCV.
 3. Capture video frames continuously.
-4. Detect objects in each frame.
-5. Draw bounding boxes and object labels.
+4. Perform object detection on each frame.
+5. Draw bounding boxes and class labels around detected objects.
 6. Display the processed video stream in real time.
+7. Press **Q** to exit the application.
 
 ---
 
@@ -74,8 +74,4 @@ and many more.
 - Image and video file detection
 - Custom-trained YOLO models
 
----
 
-## License
-
-This project is available under the MIT License.
