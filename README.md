@@ -22,19 +22,6 @@ A real-time object recognition application built with **Python**, **OpenCV**, an
 - NumPy
 
 ---
-## Usage
-
-Run the application:
-
-```bash
-python OpenCV-Object-Recognition.py
-```
-
-The webcam will open automatically.
-
-Press **Q** to exit the application.
-
----
 
 ## How It Works
 
