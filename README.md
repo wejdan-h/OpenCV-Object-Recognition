@@ -61,8 +61,7 @@ and many more.
 
 ### GIF Preview
 
-![Uploading demo.gif…]()
-
+![Object Recognition Demo](demo.gif)
 
 
 ---
